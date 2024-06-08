@@ -1,0 +1,13 @@
+*{
+    font-family: sans-serif;
+}
+
+
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size: 2rem;
+    font-style: italic;
+    font-weight: bold;
+}
